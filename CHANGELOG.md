@@ -1,6 +1,11 @@
 # Changelog
 
-## 0.1.0-alpha.4
+## 0.1.0-alpha.5
+
+- Use an explicit local tarball path for publishing with npm provenance.
+- SDK behavior and API remain unchanged from alpha.3.
+
+## 0.1.0-alpha.4 (not published to npm)
 
 - Release through GitHub Actions with npm Trusted Publishing and provenance.
 - SDK behavior and API remain unchanged from alpha.3.

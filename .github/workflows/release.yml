@@ -55,4 +55,4 @@ jobs:
           name: npm-package
           path: package-artifact/
       - name: Publish with npm Trusted Publishing
-        run: npm publish package-artifact/*.tgz --provenance --access public --tag alpha --ignore-scripts
+        run: npm publish ./package-artifact/*.tgz --provenance --access public --tag alpha --ignore-scripts
