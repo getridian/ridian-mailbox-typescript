@@ -1,0 +1,8 @@
+[extend]
+useDefault = true
+
+[[rules]]
+id = "ridian-mailbox-credential"
+description = "Ridian setup or mailbox credential"
+regex = '''ridian_(?:setup|mailbox)_[a-f0-9]{64}'''
+keywords = ["ridian_setup_", "ridian_mailbox_"]
