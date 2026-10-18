@@ -1,6 +1,6 @@
 {
   "name": "@getridian/mailbox",
-  "version": "0.1.0-alpha.3",
+  "version": "0.1.0-alpha.4",
   "description": "Email inboxes for AI agents: the Ridian TypeScript SDK for Node.js",
   "type": "module",
   "engines": {
@@ -27,7 +27,7 @@
     "pack:check": "node scripts/check-package.mjs"
   },
   "license": "MIT",
-  "author": "PPJ Venture Labs UG (haftungsbeschr\u00e4nkt)",
+  "author": "PPJ Venture Labs UG (haftungsbeschränkt)",
   "homepage": "https://getridian.com/agent-mailbox/?utm_source=npm&utm_medium=referral&utm_campaign=typescript-sdk",
   "repository": {
     "type": "git",

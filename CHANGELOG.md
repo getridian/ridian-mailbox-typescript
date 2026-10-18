@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.1.0-alpha.4
+
+- Release through GitHub Actions with npm Trusted Publishing and provenance.
+- SDK behavior and API remain unchanged from alpha.3.
+
 ## 0.1.0-alpha.3
 
 - Public npm package under `@getridian/mailbox`, with TypeScript declarations and MIT license.
